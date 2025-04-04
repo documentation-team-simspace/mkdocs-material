@@ -22,7 +22,7 @@ your GitHub account in order to access the Insiders repository programmatically
 (from the command line or GitHub Actions workflows):
 
 1.  Go to https://github.com/settings/tokens
-2.  Click on [Generate a new token]
+2.  Click on [Generate a new token] and then **Generate a new token (classic)**
 3.  Enter a name and select the [`repo`][scopes] scope
 4.  Generate the token and store it in a safe place
 
